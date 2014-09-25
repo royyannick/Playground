@@ -3,5 +3,4 @@ Playground
 
 Baube's Playground
 
-== Intro ==
-'''Welcome into my world !'''
+Welcome into my world !
